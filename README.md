@@ -7,11 +7,11 @@ Løsningen fungerer ved å bruke Arduino til å oppdage og reagere på nærligge
 Disse sensorene sender ut lydbølger og måler tiden det tar før de reflekteres tilbake. Basert på denne tiden kan systemet beregne avstanden til objektene. Denne informasjonen brukes deretter til å styre en servo-motor, piezo og LED-belysning. I tillegg er det lagt til mulighet til å manuelt overstyre åpne/lukke funksjonen og om artefakten skal lage lyd.
 
 Når systemet er aktivt, kan man oppleve følgende:
-Hvis en tilstanden til “flip-switchen” endres av en bruker vil servoen åpne lokket frem til denne tilstanden endres igjen
-Når ingen objekter er i nærheten av åpningen, forblir servo lukket for å hindre uønsket tilgang.
-Hvis en person eller et objekt nærmer seg åpningen og det ikke er søppel i nærheten, vil servo åpnes automatisk for å tillate passasje.
-Hvis søppel blir detektert i nærheten av åpningen, vil systemet gi en lyd- og lysvarsling for å signalisere behovet for å fjerne søppelet.
-Når søppelet er fjernet og ingen objekter er i nærheten, vil servo lukkes igjen.
+* Hvis en tilstanden til “flip-switchen” endres av en bruker vil servoen åpne lokket frem til denne tilstanden endres igjen
+* Når ingen objekter er i nærheten av åpningen, forblir servo lukket for å hindre uønsket tilgang.
+* Hvis en person eller et objekt nærmer seg åpningen og det ikke er søppel i nærheten, vil servo åpnes automatisk for å tillate passasje.
+* Hvis søppel blir detektert i nærheten av åpningen, vil systemet gi en lyd- og lysvarsling for å signalisere behovet for å fjerne søppelet.
+* Når søppelet er fjernet og ingen objekter er i nærheten, vil servo lukkes igjen.
 Denne løsningen er en automatisert måte å kontrollere tilgang til en åpning, samtidig som den gir varsler når det er nødvendig å fjerne søppel.
 
 ---
