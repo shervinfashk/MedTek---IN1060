@@ -21,6 +21,13 @@ Denne løsningen er en automatisert måte å kontrollere tilgang til en åpning,
 
 * Legger til bilder snart
 
+
+![Skjermbilde 2024-05-13 132127](https://github.com/shervinfashk/MedTek---IN1060/assets/110855795/63346007-3cb1-4b8e-a881-728bdb0e876a)
+
+![Skjermbilde 2024-05-13 132157](https://github.com/shervinfashk/MedTek---IN1060/assets/110855795/c1144dc9-5eac-40fc-aea5-cd2b56aef71d)
+
+![Skjermbilde 2024-05-13 144408](https://github.com/shervinfashk/MedTek---IN1060/assets/110855795/e090ef21-20e8-4592-be22-57db3eded07b)
+
 ---
 
 ## Funksjoner
