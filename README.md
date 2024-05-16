@@ -42,3 +42,5 @@ Denne løsningen er en automatisert måte å kontrollere tilgang til en åpning,
 * microsecondsToCentimeters(): Denne funksjonen konverterer tidsmålinger fra mikrosekunder til centimeter basert på hastigheten til ultralydssignalene. Den tar imot en tidsmåling i mikrosekunder som argument og returnerer avstanden i centimeter.
 
 * lukkServo(): Denne funksjonen brukes i setup() for å sikre at servoen starter i en lukket posisjon.
+
+---
