@@ -12,7 +12,6 @@ Når systemet er aktivt, kan man oppleve følgende:
 * Hvis en person eller et objekt nærmer seg åpningen og det ikke er søppel i nærheten, vil servo åpnes automatisk for å tillate passasje.
 * Hvis søppel blir detektert i nærheten av åpningen, vil systemet gi en lyd- og lysvarsling for å signalisere behovet for å fjerne søppelet.
 * Når søppelet er fjernet og ingen objekter er i nærheten, vil servo lukkes igjen.
-Denne løsningen er en automatisert måte å kontrollere tilgang til en åpning, samtidig som den gir varsler når det er nødvendig å fjerne søppel.
 
 ---
 
