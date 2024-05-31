@@ -39,7 +39,7 @@ Når systemet er aktivt, kan man oppleve følgende:
 
 * ikkeNokSoppel(): Denne funksjonen håndterer tilfeller der det ikke er nok søppel til å utløse varsling. Den sørger for at det ikke spilles noen lyd, og at lysindikatoren forblir grønn for å indikere normal drift.
 
-* skrivUtAvstand(): Denne funksjonen brukes for debugging-formål. Den skriver ut avstandsmålinger til seriell kommunikasjon, slik at brukeren kan overvåke avstandene målt av ultralydssensorene.
+* skrivUtAvstand(): Denne funksjonen brukes for debugging-formål. 
 
 * microsecondsToCentimeters(): Denne funksjonen konverterer tidsmålinger fra mikrosekunder til centimeter basert på hastigheten til ultralydssignalene. Den tar imot en tidsmåling i mikrosekunder som argument og returnerer avstanden i centimeter.
 
