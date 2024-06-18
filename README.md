@@ -9,7 +9,7 @@ Disse sensorene sender ut lydbølger og måler tiden det tar før de reflekteres
 Når systemet er aktivt, kan man oppleve følgende:
 * Hvis en tilstanden til “flip-switchen” endres av en bruker vil servoen åpne lokket frem til denne tilstanden endres igjen
 * Når ingen objekter er i nærheten av åpningen, forblir servo lukket for å hindre uønsket tilgang.
-* Hvis en person eller et objekt nærmer seg åpningen og det ikke er søppel i nærheten, vil servo åpnes automatisk for å tillate passasje.
+* Hvis en person eller et objekt nærmer seg åpningen og det ikke er søppel i nærheten, vil servo åpnes automatisk.
 * Hvis søppel blir detektert i nærheten av åpningen, vil systemet gi en lyd- og lysvarsling for å signalisere behovet for å fjerne søppelet.
 * Når søppelet er fjernet og ingen objekter er i nærheten, vil servo lukkes igjen.
 
