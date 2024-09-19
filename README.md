@@ -1,6 +1,9 @@
 
 # MedTek - Teknisk Rapport
 
+[Video-demo](https://drive.google.com/file/d/1RUjJMyyZV4dEII6PD99wNJM0WbJ0Mjwz/view?usp=sharing)
+[Prosjektside](https://www.uio.no/studier/emner/matnat/ifi/IN1060/v24/prosjektgrupper/medtek/)
+
 ## Hvordan fungerer løsningen?
 Løsningen fungerer ved å bruke Arduino til å oppdage og reagere på nærliggende objekter. Ved hjelp av ultrasoniske sensorer måler systemet avstander til både åpningen og eventuelt søppel.
 
